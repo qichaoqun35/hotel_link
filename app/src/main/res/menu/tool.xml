@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activity.HotelListActivity">
+
+    <item
+        android:id="@+id/usd"
+        android:orderInCategory="80"
+        android:title="USD($)"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/cad"
+        android:orderInCategory="90"
+        android:title="CAD(CA$)"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/eur"
+        android:orderInCategory="100"
+        android:title="EUR"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/jpy"
+        android:orderInCategory="100"
+        android:title="JPY(￥)"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/cny"
+        android:orderInCategory="100"
+        android:title="CNY(CN￥)"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/brl"
+        android:orderInCategory="100"
+        android:title="BRL(R$)"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/inr"
+        android:orderInCategory="100"
+        android:title="INR(Rs)"
+        app:showAsAction="never"/>
+</menu>

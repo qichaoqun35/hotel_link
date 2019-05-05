@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AmeriLink</string>
+    <string name="my_count">我的賬號</string>
+    <string name="your_setting">您的設置</string>
+    <string name="search">搜索</string>
+    <string name="order">訂單</string>
+    <string name="my">我的</string>
+    <string name="my_order">我的訂單</string>
+    <string name="login">登陸</string>
+    <string name="devlope_panel">開發面板</string>
+    <string name="language">當前語言</string>
+    <string name="money">當前貨幣</string>
+    <string name="danwei">單位&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+</resources>

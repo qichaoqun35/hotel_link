@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AmeriLink</string>
+    <string name="my_count">MY COUNT</string>
+    <string name="your_setting">MY SETTING</string>
+    <string name="search">search</string>
+    <string name="order">order</string>
+    <string name="my">me</string>
+    <string name="my_order">my order</string>
+    <string name="login">login</string>
+    <string name="devlope_panel">develop panel</string>
+    <string name="language">language</string>
+    <string name="money">money&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="danwei">danwei&#160;&#160;&#160;&#160;&#160;</string>
+</resources>
